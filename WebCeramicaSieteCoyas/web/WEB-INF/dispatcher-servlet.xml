@@ -26,7 +26,12 @@
              
              
              
-             
+           
+             <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
+             <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>
+              <mvc:view-controller path="/ubuntusaludo.htm" view-name="ubuntusaludo" />
+                                        <!-- Joffre PRUEBA DESDE UBUNTU CON GITHUB  --> 
+               
              
              
              
