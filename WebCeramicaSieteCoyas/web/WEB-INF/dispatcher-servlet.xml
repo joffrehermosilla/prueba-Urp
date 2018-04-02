@@ -33,8 +33,10 @@
                                         <!-- Joffre PRUEBA DESDE UBUNTU CON GITHUB  --> 
                
              
-             
-             
+             <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
+             <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>
+              <mvc:view-controller path="/nicolasprueba.htm" view-name="nicolasprueba" />
+             <!-- Nicolas Breña  --> 
          
          
          
