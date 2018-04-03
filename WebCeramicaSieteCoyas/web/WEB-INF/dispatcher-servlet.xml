@@ -23,8 +23,11 @@
              <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>
               <mvc:view-controller path="/joffreprueba.htm" view-name="joffreprueba" />
               <!-- Joffre Hermosilla  --> 
-             
-             
+              
+              <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
+             <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>
+              <mvc:view-controller path="/jhairoprueba.htm" view-name="jhairoprueba" />
+              <!-- Jhairo Caja  --> 
              
            
              <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
