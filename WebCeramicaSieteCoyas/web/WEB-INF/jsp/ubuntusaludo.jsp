@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Saludo desde Ubuntu con Smartgit y cuenta de Joffre en la rama Joffre_Prueba!</h1>
+        <h1>Saludo desde Ubuntu con Smartgit y cuenta de Joffre en la rama Joffre_Prueba! XDDD</h1>
     </body>
 </html>
