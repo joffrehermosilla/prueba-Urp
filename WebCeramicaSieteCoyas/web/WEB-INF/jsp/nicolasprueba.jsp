@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Prueba de github</h1>
+        <h1>Prueba de github, de Nicolas</h1>
     </body>
 </html>
